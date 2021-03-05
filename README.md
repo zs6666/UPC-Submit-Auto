@@ -11,6 +11,7 @@ Automatically Submiting Epidemic Information for UPC students
 
 ## 警告
 此脚本根据前一天上报的信息重复自动上报。所以如果你的状态发生了变化（体温、地理位置等），
+
 _务必暂停脚本并手动上报 2天！_
 
 ## 运行方法
