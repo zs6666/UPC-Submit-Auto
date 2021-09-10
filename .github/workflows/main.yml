@@ -31,8 +31,8 @@ jobs:
         # 安装需要的python库
     - name: '[Final Main] Working'
       env:
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }} 
+          USERNAME: ${{ secrets.Z21010055 }}
+          PASSWORD: ${{ secrets.zs7289385 }} 
       run: |
         python main.py
         # 执行代码
