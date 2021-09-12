@@ -32,7 +32,7 @@ jobs:
     - name: '[Final Main] Working'
       env:
           USERNAME: ${{ secrets.Z21010055 }}
-          PASSWORD: ${{ secrets.zs7289385 }} 
+          PASSWORD: ${{ secrets.zs7289385zs }} 
       run: |
         python main.py
         # 执行代码
